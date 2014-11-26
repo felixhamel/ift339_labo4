@@ -41,6 +41,5 @@ int main(int argc, const char * argv[])
     WS.insert(s);
   }
 
-  cout << "Avant afficher" << endl;
   WS.afficher();
 }
