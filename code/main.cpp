@@ -30,7 +30,7 @@ int main(int argc, const char * argv[])
 
     std::cout << "Fin du programme!\n";
     return 0;
-}*/
+  }*/
 
 
  string base("ABCDZEFGHIJKLMN");
@@ -41,6 +41,5 @@ int main(int argc, const char * argv[])
     WS.insert(s);
   }
 
-  cout << "Avant afficher" << endl;
   WS.afficher();
 }
